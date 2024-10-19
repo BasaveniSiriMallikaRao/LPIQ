@@ -1,4 +1,5 @@
 Legal Predict IQ
+
 Legal Predict IQ is an AI-driven platform designed to assist legal professionals and students with case law analysis and legal outcome predictions. Powered by advanced NLP models, the system provides accurate and context-aware responses to legal queries based on uploaded legal documents. Key features include:
 
 AI-Powered Case Analysis: Legal Predict IQ utilizes machine learning to analyze case laws, predict outcomes, and offer actionable insights.
