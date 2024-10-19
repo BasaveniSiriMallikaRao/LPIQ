@@ -51,10 +51,8 @@ bash
 streamlit run app.py
 
 
-
 Future Enhancements
 We plan to continuously evolve Legal Predict IQ with the following potential enhancements:
-
 Advanced NLP Models: Integrating more sophisticated legal-specific NLP models to improve the accuracy of legal predictions and responses.
 
 Multi-Language Support: Expanding the platform to support multiple languages, enabling legal analysis in various jurisdictions.
